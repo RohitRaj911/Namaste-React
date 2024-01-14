@@ -1,0 +1,35 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "This is a live project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RohitRaj911/Namaste-React.git"
+  },
+  "author": "Rohit Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitRaj911/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/RohitRaj911/Namaste-React#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.15",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@types/node": "^20.6.0",
+    "cosmiconfig": "^8.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
