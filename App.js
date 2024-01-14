@@ -24,7 +24,7 @@
  import React from "react";
  import ReactDOM from "react-dom/client";
 
- //React Element
+ //React - Element
 const Title = (
   <h1 id="title" key="h2">Namaste React</h1>
 );
